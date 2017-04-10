@@ -7,7 +7,7 @@ body{
 }
 header{
     height:410px ;
-    background: url("../images/float-bg.jpg") no-repeat ;
+    background: url("../images/float-bg.jpg") no-repeat center;
     background-size: cover;
     text-transform: uppercase;
 }
